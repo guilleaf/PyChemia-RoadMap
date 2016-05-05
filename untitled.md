@@ -9,8 +9,7 @@ are expecting to be done in the forthcoming months for the code.
 ToDo List
 =========
 
-Development
------------
+## Development
 
    * Double support Python >= 2.7 and >= 3.3
    * Travis Continous Integration
